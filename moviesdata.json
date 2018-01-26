@@ -1,7 +1,6 @@
 {
-  "movies":
-  [
-
+  "movies":[
+    
     {
     "name": "Blade Runner 2049",
     "year": 2017,
@@ -17,5 +16,4 @@
   }
   
 ]
-  
 }
